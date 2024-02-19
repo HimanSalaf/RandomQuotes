@@ -17,7 +17,7 @@ Run the following command:
 
 ```bash
 npm install -g expo-cli
-git clone https://github.com/yogeshwar-chaudhari-20/RandomQuotes
+git clone https://github.com/HimanSalaf/RandomQuotes.git
 cd RandomQuotes
 npm install
 npm run start
